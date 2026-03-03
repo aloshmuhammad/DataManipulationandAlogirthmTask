@@ -1,4 +1,4 @@
-# DataManipulationandAlogirthmTas
+# DataManipulationandAlogirthmTask
 
 ## 📌 Description
 
